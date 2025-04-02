@@ -7,7 +7,7 @@ My journey with technology has been shaped by my skills in **PowerShell** and **
 ## 🔧 Skills
 - **Programming Languages**: C#, PowerShell, Bash
 - **Cloud & Infrastructure**: Azure Cloud, Kubernetes, Docker
-- **DevOps Tools**: GitHub Actions, Jenkins, Terraform
+- **DevOps Tools**: GitHub Actions, Azure DevOps, Terraform, ARM, Biceps
 - **Automation**: Scripting and CI/CD pipeline development
 
 ## 🌐 Let's Connect!
